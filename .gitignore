@@ -1,0 +1,19 @@
+# Sessione e configurazioni di Positron / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata/
+*.Rproj
+
+# Output di compilazione di Quarto
+rmd-outputs/
+*.pdf
+
+# File di dati / esportazioni temporanee
+*.xlsx
+*.csv
+*.rds
+*.rdata
+
+# Altri file
+*.bat
